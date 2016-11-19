@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1460522335021_1" label="COMP2613" name="COMP2613">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/A00969947Lab3" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/A00969947Lab7" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/A00123456Lab3" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/examples2" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/A00969947Lab10" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/A00969947Lab4" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/A00969947Lab8" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/A00969947Gis" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Hello" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/A00123456Lab2" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/workfolder" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/RemoteSystemsTempFiles" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/A00969947Lab1" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/A00969947Lab5" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/A00969947Lab9" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/examples10" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/A00123456Lab1" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/A00123456Lab5" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/A00123456Lab9" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/examples8" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ex5" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/A00969947Assignment1" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Lab4Solution with logging" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/A00969947Lab2" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/A00123456Lab4" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/A00123456Lab8" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/examples1" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/examples5" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/examples9" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ex11" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1460521615479_0" label="Window Working Set" name="Aggregate for window 1460521615477"/>
+<mruList name="COMP2613"/>
+</workingSetManager>
